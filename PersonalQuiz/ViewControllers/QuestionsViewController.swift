@@ -2,7 +2,6 @@
 //  QuestionsViewController.swift
 //  PersonalQuiz
 //
-//  Created by Alexey Efimov on 04.07.2022.
 //
 
 import UIKit
